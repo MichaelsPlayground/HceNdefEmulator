@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HceNdefEmulator</string>
+    <string name="aiddescription">HceNdefEmulator</string>
+    <string name="servicedesc">HceNdefEmulator</string>
+</resources>

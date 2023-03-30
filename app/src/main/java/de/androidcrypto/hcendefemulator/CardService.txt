@@ -1,0 +1,4 @@
+package de.androidcrypto.hcendefemulator;
+
+public class CardService {
+}
